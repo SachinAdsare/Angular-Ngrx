@@ -1,0 +1,20 @@
+.requestBody {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+.requestBodyItem {
+    font-family: monospace;
+    color: lightgray;
+}
+
+.float-right{
+    float: right;
+}
+
+.height-200{
+  overflow: hidden;
+  overflow-y: auto;
+  max-height: 200px;
+}
